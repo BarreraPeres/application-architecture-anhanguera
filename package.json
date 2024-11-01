@@ -1,0 +1,15 @@
+{
+  "name": "application-architecture",
+  "version": "1.0.0",
+  "description": "hello world",
+  "type": "module",
+  "main": "index.js",
+  "author": "Gabriel B Peres",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}
